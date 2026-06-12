@@ -1,0 +1,7 @@
+# M1 阶段依赖（②转录）。②′/③ 仅用标准库 + 下列基础包。
+funasr>=1.2.0
+torch>=2.1
+torchaudio
+modelscope
+soundfile
+numpy
