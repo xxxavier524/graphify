@@ -1,0 +1,9 @@
+# 流水线运行产物不入库（glossary.csv 和 knowledge/ 卡片除外，需要版本管理）
+raw/
+audio/
+transcript/
+clean/
+signal/
+qa/
+.venv/
+__pycache__/
