@@ -16,7 +16,8 @@ build/
 graphify-out/
 .graphify_*.json
 .graphify_python
-.claude/
+.claude/*
+!.claude/skills/
 skills/
 docs/superpowers/
 .vscode/
