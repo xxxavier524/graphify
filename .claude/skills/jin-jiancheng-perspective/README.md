@@ -9,6 +9,7 @@
 - `references/sources/jinjiancheng-investment-mindmap.jpeg` — 原始思维导图
 - `scripts/quality_check.py` — 女娲 Phase 4 质量门禁（6 项标准）
 - `LOOP.md` — /loop 迭代任务与闭环条件定义
+- `integration/` — 融合到量化选股 agent team 的集成套件（gatekeeper 子代理定义 + 安装说明，见 `integration/INSTALL.md`）
 
 ## 使用
 
